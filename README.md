@@ -71,11 +71,11 @@ gitをインストールします。
 sudo apt-get install git
 ```
 
-burger_war リポジトリをクローンします。
+burger_war リポジトリをクローンします。(2021年秋大会用にRobotics HUBとは別に用意しています)
 先程作ったワークスペースの`src/`の下においてください。
 ```
 cd ~/catkin_ws/src
-git clone https://github.com/p-robotics-hub/burger_war_kit
+git clone https://github.com/anchobi-no/burger_war_kit
 ```
 
 下記は、実際にはForkした自分のレポジトリをcloneしてください
